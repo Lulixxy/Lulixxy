@@ -1,6 +1,6 @@
 <!-- Banner / Cover -->
 <p align="center">
-  <img src="<!-- Banner image here -->" alt="header image" />
+  <img src="https://scontent.fcnx4-1.fna.fbcdn.net/v/t39.30808-1/426374104_3169924659818735_2244761968579776750_n.jpg?stp=cp6_dst-jpg_s200x200_tt6&_nc_cat=111&ccb=1-7&_nc_sid=e99d92&_nc_ohc=fE_c5BHYBc4Q7kNvwGDL7iE&_nc_oc=Adk-TvI0_XRowQGSk_OHEpp1ChwMc5GoqTbZxJ3LQq152QNQzGcnSBpH8fIPDlDr0_nZpgAkwz8CjPPrxQ07kVgP&_nc_zt=24&_nc_ht=scontent.fcnx4-1.fna&_nc_gid=S-x_9kzZJRIbcFHP54I9Yw&oh=00_Afa7fkoWPgkNPfJ-wAm4iyqXgbvDNMjTSsBw8QNxykFQ1g&oe=68D9CC53" alt="header image" />
 </p>
 
 <h1 align="center">Hi, I’m Kulissara Srikaew <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
