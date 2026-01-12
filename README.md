@@ -62,3 +62,5 @@ I am a senior Information Technology student at **Maejo University (Class of 202
 ---
 
 ### 📈 GitHub Stats
+![Kulissara's GitHub stats](https://github-readme-stats.vercel.app/api?username=Lulixxy&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lulixxy&layout=compact&theme=radical)
